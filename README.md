@@ -1,6 +1,6 @@
 # Java_OOP - Seminar_1
 
-![pictures java for oop](Icon_Java_OOP_Advanced.png)
+![pictures java for oop](https://raw.githubusercontent.com/Terekhov-A-S/Java_OOP_Seminar_1/main/Icon_Java_OOP_Advanced.png)
 
 
 ### При решении этих задач следуйте принципам абстракции, инкапсуляции, наследования, полиморфизма.
